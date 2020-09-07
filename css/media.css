@@ -1,0 +1,25 @@
+@media only screen and (max-device-width: 1038px){
+    body {
+        position: absolute !important;
+    }
+
+    .body__logo {
+        margin: 30px 50px;
+    }
+
+    .div__main.row {
+        display: block;
+        margin: 120px 20px;
+        text-align: center;
+    }
+
+    .body__div{
+        background: url('../images/bg-mobile.svg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .row__illustration img {
+        width: 100%;
+    }
+}
